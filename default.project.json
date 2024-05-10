@@ -29,6 +29,10 @@
 
 			},
 
+			"Map": {
+				"$path": "Game/Workspace/Map"
+			},
+
 			"Scripts": { "$path": "Game/Workspace/Scripts" },
 
 			"Modules": { "$path": "Modules" },
